@@ -14,8 +14,7 @@ Microsoft Excel
 
 Supervised Classification (Maximum Likelihood Classifier)
 
-Maps:![Remote Sensing](Map1.png)
-![Remote Sensing(Map2.png)
+Maps:![Remote Sensing](Map3.png)
 
 
 Project Description:

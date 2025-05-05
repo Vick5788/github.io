@@ -14,7 +14,7 @@ Microsoft Excel
 
 Supervised Classification (Maximum Likelihood Classifier)
 
-Maps:![Remote Sensing] (Map1.png)
+Maps:![Remote Sensing](Map1.png)
 
 Project Description:
 This project utilized remote sensing and GIS tools to analyze the spatial and temporal patterns of urban expansion in Abuja, Nigeria between 2000 and 2020. The study aimed to understand the growth dynamics and land use changes in the region by analyzing satellite imagery over two decades.
